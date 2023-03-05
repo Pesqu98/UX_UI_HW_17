@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,700");
+
+.overlap-group2 {
+    float: left;
+}
+
+.nav {
+    background-color: #FFFCF7; 
+    list-style-type: none;
+    text-align: left;
+    float:inline-start;
+    margin-left: 122px;
+    padding: 0;
+  }
+  
+  .nav li {
+    display: inline-block;
+    justify-content: space-around;
+    font-size: 20px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+.img_0491 {
+    height: 252px;
+    left: 318px;
+    object-fit: cover;
+    position: absolute;
+    top: 1445px;
+    width: 252px;
+}
+
+.img_0492 {
+    height: 252px;
+    left: 584px;
+    object-fit: cover;
+    position: absolute;
+    top: 1445px;
+    width: 252px;
+}
+
+.group-2 {
+    cursor: pointer;
+    height: 63px;
+    left: 73px;
+    position: relative;
+    top: 28px;
+    width: 42px;
+}
+
+.group-15 {
+    height: 252px;
+    left: 318px;
+    position: absolute;
+    top: 1742px;
+    width: 252px;
+}
+
+.img_4095 {
+    height: 252px;
+    left: 584px;
+    object-fit: cover;
+    position: absolute;
+    top: 1738px;
+    width: 252px;
+}
+
+.rectangle-3 {
+    height: 215px;
+    left: 810px;
+    position: absolute;
+    top: 805px; 
+    width: 128px;
+}
+
+.rectangle-4 {
+    height: 215px;
+    left: 952px;
+    position: absolute;
+    top: 805px; 
+    width: 128px;
+}
+
+.rectangle-5 {
+    height: 215px;
+    left: 1100px;
+    position: absolute;
+    top: 805px; 
+    width: 128px;
+}
+
+.rectangle-27 {
+    height: 265px;
+    left: 331px;
+    object-fit: cover;
+    position: absolute;
+    top: 221px;
+    width: 190px;
+}
+
+.rectangle-28 {
+    height: 265px;
+    left: 532px;
+    position: absolute;
+    top: 221px;
+    width: 190px;
+}
+
+.frame-5 {
+    left: 251px;
+}
+
+.projects {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.25 px;
+    position: relative;
+    width: fit-content;
+}
+
+.frame-6 {
+    left: 440px;
+}
+
+.overlap-group1 {
+    height: 1024px;
+    position:relative;
+    width: 1440px;
+}
+
+
+.overlap-group3 {
+    height: 2215px;
+    position: relative;
+    width:1440px;
+}
+
+.about {
+    align-items: flex-start;
+    background-color: #fffcf7;
+    border: 1px none;
+    display: flex;
+    height: 1024px;
+    min-width: 1440px;
+}
+.address {
+    left:318px;
+    top: 2002px;
+    width: 74px
+}
+.address-3 {
+    left: 589px;
+    top: 2003px;
+    width: 93px;
+}
+
+.about address-4 {
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    white-space: nowrap;
+}
+
+.logo-design {
+    left: 1083px;
+    letter-spacing:0; 
+    line-height: 45px;
+    position: absolute;
+    top: 1571px;
+    transform: rotate(-90deg);
+    width: 1060px;
+}
+
+.line-6 {
+    height: 1px;
+    left:0;
+    position:absolute;
+    top: 123px;
+    width: 1440px;
+}

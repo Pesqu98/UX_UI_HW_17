@@ -1,4 +1,8 @@
 p {font-family: 'Poppins', sans-serif;}
+p1 {font-family: 'poppins', sans-serif;
+    font-weight:bold;
+    font-size:20px;
+}
 
 h1{font-family: 'Poppins', sans-serif;}
 h2{font-family: 'Poppins', sans-serif;}
@@ -6,7 +10,7 @@ h3{font-family: 'Poppins', sans-serif;
 font-size:20px;}
 
 .half-width{
-    width:50%;
+    width:561px;
     margin:0;
 }
 
@@ -100,9 +104,6 @@ font-size:20px;}
     width: 252px;
 }
 
-.image-container1{
-    float:right;
-}
 .rectangle-3 {
     height: 215px;
     left: 810px;
@@ -192,4 +193,65 @@ font-size:20px;}
     position:absolute;
     top: 123px;
     width: 1440px;
+}
+
+
+.user-centered-design {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    left:810px;
+    letter-spacing:0;
+    line-height:normal;
+    position:absolute;
+    top:1036px;
+    width: 121px;
+}
+
+.taking-users-objects {
+    left:810px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1076px;
+    width:128px;
+}
+.wireframing {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    left:955px;
+    letter-spacing:0;
+    line-height: normal;
+    position: absolute;
+    top:1036px;
+    width: 121px;
+}
+.excellent-about-focusing-on-the-flow{
+    left:955px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1050px;
+    width:128px;
+}
+
+.storyboarding {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    left:1100px;
+    letter-spacing:0;
+    line-height: normal;
+    position: absolute;
+    top:1036px;
+    width: 121px;
+}
+.creating-a-visual-na{
+    left:1100px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1055px;
+    width:128px;
 }

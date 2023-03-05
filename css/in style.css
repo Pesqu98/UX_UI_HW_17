@@ -9,7 +9,7 @@
     list-style-type: none;
     text-align: left;
     float:inline-start;
-    margin-left: 122px;
+    margin-left: 132px;
     padding: 0;
   }
   
@@ -91,20 +91,24 @@
     width: 128px;
 }
 
+.image-container1 {
+    float: left;
+}
+
 .rectangle-27 {
     height: 265px;
-    left: 331px;
+    left: 275px;
     object-fit: cover;
     position: absolute;
-    top: 221px;
+    top: 200px;
     width: 190px;
 }
 
 .rectangle-28 {
     height: 265px;
-    left: 532px;
+    left: 475px;
     position: absolute;
-    top: 221px;
+    top: 200px;
     width: 190px;
 }
 

@@ -1,8 +1,24 @@
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,700");
+p {font-family: 'Poppins', sans-serif;}
 
+h1{font-family: 'Poppins', sans-serif;}
+h2{font-family: 'Poppins', sans-serif;}
+h3{font-family: 'Poppins', sans-serif;
+font-size:20px;}
+
+.half-width{
+    width:50%;
+    margin:0;
+}
+
+.about-container{
+    margin-top:60px;
+    padding-left:555px;
+    padding-bottom:253px;
+}
 .overlap-group2 {
     float: left;
 }
+
 
 .nav {
     background-color: #FFFCF7; 
@@ -17,11 +33,28 @@
     display: inline-block;
     justify-content: space-around;
     font-size: 20px;
-    padding-top: 60px;
-    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 0px;
     padding-left: 65px;
     padding-right: 65px;
   }
+
+.rectangle-27 {
+    height: 265px;
+    left: 275px;
+    object-fit: cover;
+    position: absolute;
+    top: 200px;
+    width: 190px;
+}
+
+.rectangle-28 {
+    height: 265px;
+    left: 475px;
+    position: absolute;
+    top: 200px;
+    width: 190px;
+}
 
 .img_0491 {
     height: 252px;
@@ -67,6 +100,9 @@
     width: 252px;
 }
 
+.image-container1{
+    float:right;
+}
 .rectangle-3 {
     height: 215px;
     left: 810px;
@@ -91,26 +127,7 @@
     width: 128px;
 }
 
-.image-container1 {
-    float: left;
-}
 
-.rectangle-27 {
-    height: 265px;
-    left: 275px;
-    object-fit: cover;
-    position: absolute;
-    top: 200px;
-    width: 190px;
-}
-
-.rectangle-28 {
-    height: 265px;
-    left: 475px;
-    position: absolute;
-    top: 200px;
-    width: 190px;
-}
 
 .frame-5 {
     left: 251px;
@@ -141,14 +158,6 @@
     width:1440px;
 }
 
-.about {
-    align-items: flex-start;
-    background-color: #fffcf7;
-    border: 1px none;
-    display: flex;
-    height: 1024px;
-    min-width: 1440px;
-}
 .address {
     left:318px;
     top: 2002px;

@@ -96,7 +96,7 @@ height: 748px;}
 
 .img_0491 {
     height: 252px;
-    left: 318px;
+    left: 275px;
     object-fit: cover;
     position: absolute;
     top: 1495px;
@@ -105,7 +105,7 @@ height: 748px;}
 
 .img_0492 {
     height: 252px;
-    left: 584px;
+    left: 541px;
     object-fit: cover;
     position: absolute;
     top: 1495px;
@@ -114,7 +114,7 @@ height: 748px;}
 
 .img_0495 {
     height: 255px;
-    left: 584px;
+    left: 541px;
     object-fit: cover;
     position: absolute;
     top: 1788px;
@@ -133,7 +133,7 @@ height: 748px;}
 
 .group-15 {
     height: 252px;
-    left: 318px;
+    left: 275px;
     position: absolute;
     top: 1788px;
     width: 252px;
@@ -208,14 +208,14 @@ height: 748px;}
     font-size:14px;
     top: 1760px;
     position:absolute;
-    left: 320px; 
+    left: 280px; 
 }
 .address-2{
     font-family: 'poppins', sans-serif;
     font-size:14px;
     top: 1760px;
     position:absolute;
-    left: 590px; 
+    left: 545px; 
 }
 
 .address-3{
@@ -223,14 +223,14 @@ height: 748px;}
     font-size:14px;
     top: 2055px;
     position:absolute;
-    left: 320px; 
+    left: 280px; 
 }
 .address-4{
     font-family: 'poppins', sans-serif;
     font-size:14px;
     top: 2055px;
     position:absolute;
-    left: 590px; 
+    left: 545px; 
 }
 
 .logo-design {
@@ -247,14 +247,14 @@ height: 748px;}
 }
 
 .skills {
-    left: 317px;
+    left: 275px;
     position: absolute;
     top: 680px; 
     width: 138px;
 }
 
 .tools-adobe-photosh {
-    left: 317px;
+    left: 275px;
     position: absolute;
     top: 805px; 
     width: 138px;
@@ -324,7 +324,7 @@ height: 748px;}
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     font-weight: bold;
-    left:849px;
+    left:810px;
     letter-spacing: 0;
     line-height: 25px;
     position: absolute;
@@ -364,14 +364,14 @@ height: 748px;}
 }
 
 .linkedin {
-    padding-left: 673px;
+    padding-left: 573px;
     padding-top: 50px;
     width:100px;
     position:absolute;
 }
 
 .behance {
-    padding-left: 810px;
+    padding-left: 710px;
     padding-top: 50px;
     width: 102px;
 }

@@ -14,8 +14,35 @@ h2{font-family: 'Poppins', sans-serif;
 font-size:40px;}
 h3{font-family: 'Poppins', sans-serif;
 font-size:20px;}
+h4{font-family: 'Poppins', sans-serif;
+    font-size:16px;
+    font-weight:normal;}
+
+
+.vl {
+    float: left;
+    margin-top:-150px;
+    margin-left: 132px;
+    border-left: 1px solid black;
+height: 2350px;}
+
+.vl2 {
+    float: left;
+    margin-top:-2345px;
+    margin-left: 1249px;
+    border-left: 1px solid black;
+height: 2350px;}
+
+.vl3 {
+    float: left;
+    margin-top:-1634px;
+    margin-left:562px;
+    border-left: 1px solid black;
+height: 748px;}
+
 
 .half-width{
+    border-top: .1px solid black;
     width:561px;
     float:inline-start;
     margin-top:105px;
@@ -97,7 +124,7 @@ font-size:20px;}
 .group-2 {
     cursor: pointer;
     height: 63px;
-    left: -100px;
+    left: -80px;
     right: 73px;
     position: relative;
     top: 28px;
@@ -210,7 +237,7 @@ font-size:20px;}
     font-family: 'poppins', sans-serif;
     font-weight:bold;
     font-size:20px;
-    left: 1083px;
+    left: 683px;
     letter-spacing:0; 
     line-height: 45px;
     position: absolute;
@@ -229,7 +256,7 @@ font-size:20px;}
 .tools-adobe-photosh {
     left: 317px;
     position: absolute;
-    top: 810px; 
+    top: 805px; 
     width: 138px;
 }
 
@@ -304,19 +331,28 @@ font-size:20px;}
     top: 1475px;
     width: 158px;
 }
+.nav-horizontal{
+    border-top: .1px solid black;
+}
 
-.footer-horizontal{
+.footer-horizontal{ 
+    width: 1248px;
+    border-top: .1px solid black;
     float:inline-start;
     margin-left: 132px;
     margin-top:750px;
 }
 
 .logo-design-horizontal {
+    width: 1248px;
+    border-top: .1px solid black;
     float:inline-start;
     margin-left: 132px;
     margin-top: 640px;
 }
 .skills-horizontal {
+    width: 1248px;
+    border-top: .1px solid black;
     float:inline-start;
     margin-left: 132px;
 }
@@ -325,4 +361,17 @@ font-size:20px;}
 .i-have-a-background {
     margin-top: -50px;
     margin-bottom: 60px;
+}
+
+.linkedin {
+    padding-left: 673px;
+    padding-top: 50px;
+    width:100px;
+    position:absolute;
+}
+
+.behance {
+    padding-left: 810px;
+    padding-top: 50px;
+    width: 102px;
 }

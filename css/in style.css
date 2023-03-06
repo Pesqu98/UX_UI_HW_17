@@ -7,22 +7,26 @@ p1 {font-family: 'poppins', sans-serif;
     font-size:20px;
 }
 
-h1{font-family: 'Poppins', sans-serif;}
-h2{font-family: 'Poppins', sans-serif;}
+h1{font-family: 'Poppins', sans-serif;
+font-size: 64px;
+font-weight:normal;}
+h2{font-family: 'Poppins', sans-serif;
+font-size:40px;}
 h3{font-family: 'Poppins', sans-serif;
 font-size:20px;}
 
 .half-width{
     width:561px;
-    margin:0;
-    float: left;
+    float:inline-start;
+    margin-top:105px;
+    margin-left: 132px;
 }
 
 
 .about-container{
-    margin-top:60px;
-    padding-left:555px;
-    padding-bottom:200px;
+    margin-top:65px;
+    padding-left:680px;
+    padding-bottom:140px;
 }
 
 .overlap-group2 {
@@ -68,7 +72,7 @@ font-size:20px;}
     left: 318px;
     object-fit: cover;
     position: absolute;
-    top: 1445px;
+    top: 1495px;
     width: 252px;
 }
 
@@ -77,7 +81,7 @@ font-size:20px;}
     left: 584px;
     object-fit: cover;
     position: absolute;
-    top: 1445px;
+    top: 1495px;
     width: 252px;
 }
 
@@ -86,7 +90,7 @@ font-size:20px;}
     left: 584px;
     object-fit: cover;
     position: absolute;
-    top: 1738px;
+    top: 1788px;
     width: 252px;
 }
 
@@ -104,7 +108,7 @@ font-size:20px;}
     height: 252px;
     left: 318px;
     position: absolute;
-    top: 1738px;
+    top: 1788px;
     width: 252px;
 }
 
@@ -175,14 +179,14 @@ font-size:20px;}
 .address-1{
     font-family: 'poppins', sans-serif;
     font-size:14px;
-    top: 1710px;
+    top: 1760px;
     position:absolute;
     left: 320px; 
 }
 .address-2{
     font-family: 'poppins', sans-serif;
     font-size:14px;
-    top: 1710px;
+    top: 1760px;
     position:absolute;
     left: 590px; 
 }
@@ -190,24 +194,27 @@ font-size:20px;}
 .address-3{
     font-family: 'poppins', sans-serif;
     font-size:14px;
-    top: 2005px;
+    top: 2055px;
     position:absolute;
     left: 320px; 
 }
 .address-4{
     font-family: 'poppins', sans-serif;
     font-size:14px;
-    top: 2005px;
+    top: 2055px;
     position:absolute;
     left: 590px; 
 }
 
 .logo-design {
+    font-family: 'poppins', sans-serif;
+    font-weight:bold;
+    font-size:20px;
     left: 1083px;
     letter-spacing:0; 
     line-height: 45px;
     position: absolute;
-    top: 1571px;
+    top: 1175px;
     transform: rotate(-90deg);
     width: 1060px;
 }
@@ -215,14 +222,14 @@ font-size:20px;}
 .skills {
     left: 317px;
     position: absolute;
-    top: 670px; 
+    top: 680px; 
     width: 138px;
 }
 
 .tools-adobe-photosh {
     left: 317px;
     position: absolute;
-    top: 750px; 
+    top: 810px; 
     width: 138px;
 }
 
@@ -294,14 +301,28 @@ font-size:20px;}
     letter-spacing: 0;
     line-height: 25px;
     position: absolute;
-    top: 1425px;
+    top: 1475px;
     width: 158px;
 }
 
 .footer-horizontal{
-    margin-top:1320px;
+    float:inline-start;
+    margin-left: 132px;
+    margin-top:750px;
 }
 
 .logo-design-horizontal {
-    margin-top:700px;
+    float:inline-start;
+    margin-left: 132px;
+    margin-top: 640px;
+}
+.skills-horizontal {
+    float:inline-start;
+    margin-left: 132px;
+}
+
+
+.i-have-a-background {
+    margin-top: -50px;
+    margin-bottom: 60px;
 }

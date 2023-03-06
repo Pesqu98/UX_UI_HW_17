@@ -3,7 +3,7 @@ body {
 }
 p {font-family: 'Poppins', sans-serif;}
 p1 {font-family: 'poppins', sans-serif;
-    font-weight:bold;
+    font-weight: bold;
     font-size:20px;
 }
 
@@ -11,7 +11,8 @@ h1{font-family: 'Poppins', sans-serif;
 font-size: 64px;
 font-weight:normal;}
 h2{font-family: 'Poppins', sans-serif;
-font-size:40px;}
+font-size:40px;
+font-weight:normal;}
 h3{font-family: 'Poppins', sans-serif;
 font-size:20px;}
 h4{font-family: 'Poppins', sans-serif;
@@ -249,7 +250,7 @@ height: 748px;}
 .skills {
     left: 275px;
     position: absolute;
-    top: 680px; 
+    top: 675px; 
     width: 138px;
 }
 

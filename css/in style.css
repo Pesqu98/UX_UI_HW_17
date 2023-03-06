@@ -29,7 +29,7 @@ height: 2350px;}
 .vl2 {
     float: left;
     margin-top:-2345px;
-    margin-left: 1249px;
+    margin-left: 1151px;
     border-left: 1px solid black;
 height: 2350px;}
 
@@ -124,8 +124,8 @@ height: 748px;}
 .group-2 {
     cursor: pointer;
     height: 63px;
-    left: -80px;
-    right: 73px;
+    left: -90px;
+    right: 80px;
     position: relative;
     top: 28px;
     width: 42px;
@@ -336,7 +336,7 @@ height: 748px;}
 }
 
 .footer-horizontal{ 
-    width: 1248px;
+    width: 1150px;
     border-top: .1px solid black;
     float:inline-start;
     margin-left: 132px;
@@ -344,14 +344,14 @@ height: 748px;}
 }
 
 .logo-design-horizontal {
-    width: 1248px;
+    width: 1150px;
     border-top: .1px solid black;
     float:inline-start;
     margin-left: 132px;
     margin-top: 640px;
 }
 .skills-horizontal {
-    width: 1248px;
+    width: 1150px;
     border-top: .1px solid black;
     float:inline-start;
     margin-left: 132px;
